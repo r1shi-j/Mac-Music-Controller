@@ -50,7 +50,7 @@ struct ContentView: View {
     @State private var previousTrigger = 0
     @State private var nextTrigger = 0
     
-    private let macURL = "http://192.168.4.90:5001"
+    private let macURL = "####"
     
     var body: some View {
         NavigationStack {
